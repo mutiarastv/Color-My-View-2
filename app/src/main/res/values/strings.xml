@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ColorMyViews</string>
+    <string name="box_one">Biru</string>
+    <string name="box_two">Merah</string>
+    <string name="box_three">Hijau</string>
+    <string name="box_four">Kuning</string>
+    <string name="box_five">Ungu</string>
+    <string name="box_six">Clear</string>
+</resources>
